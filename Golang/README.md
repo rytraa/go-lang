@@ -1,1 +1,0 @@
-# Go - The programming Language

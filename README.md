@@ -1,3 +1,1 @@
-# Resources
-
-All Resources used for the process of learning each one.
+# Go - The programming Language
